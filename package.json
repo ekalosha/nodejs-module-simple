@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-module-simple",
+    "version": "0.0.2",
+    "private": true,
+    "dependencies": {
+        "async": ">=1.4.0"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=4.1.1",
+        "npm": ">=2.13.4"
+    },
+    "author": "Dioscouri",
+    "main": "index.js"
+}
